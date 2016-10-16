@@ -14,3 +14,6 @@ src/
 db/
 uploads
 server.py
+
+# WebStorm
+.idea/
